@@ -1,4 +1,4 @@
-#include "../include/core_include/core.h"
+#include "core/core.h"
 #include <iostream>
 
 namespace Core {

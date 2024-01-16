@@ -2,11 +2,9 @@
 
 project(
 	CMakeProject_Template_1
-	VERSION 0.0.1
+	VERSION 0.0.2
 	DESCRIPTION "CMake Project Template ver. 1 for future projects"
 	LANGUAGES CXX)
-
-set(CMAKE_CXX_STANDARD 11)
 
 # Library code
 add_subdirectory(core)

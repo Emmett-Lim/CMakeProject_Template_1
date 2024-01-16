@@ -3,7 +3,7 @@
 This is a small and simple project template for C++ projects utilizing CMake. The `core/` contains user defined files
 and external sources which is then built into a static library to be used for multiple applications. The `apps/`
 folder contains files intended to be built into an executable that uses the static library created
-from `core/`. `core/external/` is used for 3rd-party sources and `cmake` should contain `.cmake` files. 
+from `core/`. `core/external/` directory is used for 3rd-party sources and `cmake/` folder should contain `.cmake` files. 
 
 ## Using Project Template
 
